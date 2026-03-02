@@ -15,7 +15,7 @@ Tenho interesse na área de tecnologia desde cedo e estou sempre buscando evolui
 
 ### 💻 Linguagens e Tecnologias
 
-- ⚙️ C#
+- ⚙️ C++
 - 🌐 HTML
 - 🟨 JavaScript
 - 🎨 CSS
