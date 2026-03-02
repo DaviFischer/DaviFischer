@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Davi Fischer!
 
-<!--
-**DaviFischer/DaviFischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI  
+📚 Cursando Sistemas de Informação na UNIFEBE
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Tenho interesse na área de tecnologia desde cedo e estou sempre buscando evoluir, aprender novas ferramentas e aprimorar minhas habilidades como desenvolvedor.
+
+---
+
+## 🛠 Tecnologias & Conhecimentos
+
+### 💻 Linguagens e Tecnologias
+
+- ⚙️ C#
+- 🌐 HTML
+- 🟨 JavaScript
+- 🎨 CSS
+- 🟢 Node.js
+- 🔷 .NET
+
+### 🗄 Banco de Dados
+
+- 🐘 PostgreSQL
